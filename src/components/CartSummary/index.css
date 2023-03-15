@@ -1,0 +1,39 @@
+.summary-container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+
+.order-heading {
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #616e7c;
+  margin: 0px;
+}
+
+.value-text {
+  color: #171f46;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin: 0px;
+}
+
+.summary-container p {
+  color: #616e7c;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.summary-container button {
+  background-color: #0b69ff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  padding: 10px;
+  margin: 10px 0px;
+}
